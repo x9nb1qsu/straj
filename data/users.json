@@ -1,0 +1,26 @@
+{
+    "guardianskk": {
+        "password_hash": "a44ca5d29f6dab4320ab986479fa985b2d584b11a7da934f7e80bb1449913a07",
+        "secret_word_hash": "b32e844ca853c53dc6eee3169e49acba3e547ba099d7ac7bd8f1879035a964c3",
+        "full_name": "Администратов А.А.",
+        "role": "admin"
+    },
+    "defendservice": {
+        "password_hash": "7bbb7c326190562c1330e8d70fc395c8b5870bb2d4769085ef6fd498d1557820",
+        "secret_word_hash": "d37f4f8271d7f54ccedd3c88478860798a5c725b324b4b03864d23f1cf39ef3c",
+        "full_name": "Безопасников Б.Б.",
+        "role": "security"
+    },
+    "admin": {
+        "password_hash": "286199971a26e3274af9255a8b2d3edfd049a65b1b0f2749f839919403467975",
+        "secret_word_hash": "3c74e2bda5145217cb7cce58747345f0590c12e94689e06f869b27adec3e6465",
+        "full_name": "Жопа А.А.",
+        "role": "admin"
+    },
+    "bezopas": {
+        "password_hash": "286199971a26e3274af9255a8b2d3edfd049a65b1b0f2749f839919403467975",
+        "secret_word_hash": "3c74e2bda5145217cb7cce58747345f0590c12e94689e06f869b27adec3e6465",
+        "full_name": "нах Б.Б.",
+        "role": "security"
+    }
+}

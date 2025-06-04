@@ -1,0 +1,22 @@
+[
+    {
+        "id": "316d7c4a-b89d-4b11-b77c-258ea055d12d",
+        "last_name": "попа",
+        "first_name": "попа",
+        "patronymic": "попавна",
+        "gender": "Женский",
+        "position": "лох",
+        "department": "лошарскойе",
+        "photo_path": "photos\\a8ea174c-5a0b-4423-b808-acc595efb6cf.jpg"
+    },
+    {
+        "id": "72a04260-fe1f-43f1-a40b-ab74b4c34cda",
+        "last_name": "asdf",
+        "first_name": "asdf",
+        "patronymic": "asdf",
+        "gender": "Женский",
+        "position": "adsf",
+        "department": "asdf",
+        "photo_path": "photos\\b4848e30-02a7-4a6e-b5be-9b3a53d273a1.jpg"
+    }
+]
